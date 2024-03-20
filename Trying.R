@@ -5,3 +5,5 @@ Y <- c(1,2,3,4)
 data <- data.frame(X, Y)
 
 # cd "folder_name/" -> to change directory
+# touch "file_name" -> to create a file
+
